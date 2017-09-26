@@ -1,0 +1,56 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+.mainTable {
+	width: 510px;
+	margin: 50px;
+}
+.table {
+	margin-bottom: 0;
+}
+.table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {
+	vertical-align: middle;
+	text-align: center;
+	height: 50px;
+	width: 50px;
+}
+.ans {
+	font-weight: bold;
+	font-style: italic;
+	color: red;
+}
+.ans.ans2 {
+	color: green;
+}
+table table td {
+	position: relative;
+
+}
+
+td input {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height:49px;
+	width: 49px;
+	border: 0;
+	text-align: center;
+	display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
